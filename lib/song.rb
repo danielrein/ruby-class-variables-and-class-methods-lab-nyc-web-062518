@@ -50,17 +50,17 @@ class Song
 
 end
 
-alone = Song.new("Alone", "Daniel Rein", "rock")
+# alone = Song.new("Alone", "Daniel Rein", "rock")
+#
+# eulalie = Song.new("Eulalie", "Yoav Shemesh", "Arabic")
+#
+# annabel_lee = Song.new("Annabel Lee", "Daniel Rein", "Arabic")
+#
+# the_bells = Song.new("The Bells", "Yoav Shemesh", "musical")
+#
+# a_dream_within_a_dream = Song.new("A Dream Within A Dream", "Daniel Rein", "rock")
+#
+# the_bridal_ballad = Song.new("The Bridal Ballad", "Daniel Rein", "rock")
 
-eulalie = Song.new("Eulalie", "Yoav Shemesh", "Arabic")
-
-annabel_lee = Song.new("Annabel Lee", "Daniel Rein", "Arabic")
-
-the_bells = Song.new("The Bells", "Yoav Shemesh", "musical")
-
-a_dream_within_a_dream = Song.new("A Dream Within A Dream", "Daniel Rein", "rock")
-
-the_bridal_ballad = Song.new("The Bridal Ballad", "Daniel Rein", "rock")
-
-binding.pry
-Song.genre_count
+# binding.pry
+# Song.genre_count
