@@ -34,7 +34,7 @@ class Song
 
   def self.genre_count
     count = {}
-    self.genres.each do |uniqe_genre|
+    @@genres.each do |uniqe_genre|
       count[uniqe_genre] = @@genres.select { |genre| genre == uniqe_genre }.length
     end
     count
