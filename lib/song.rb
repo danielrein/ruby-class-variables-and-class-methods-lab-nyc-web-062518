@@ -62,5 +62,5 @@ a_dream_within_a_dream = Song.new("A Dream Within A Dream", "Daniel Rein", "rock
 
 the_bridal_ballad = Song.new("The Bridal Ballad", "Daniel Rein", "rock")
 
-# binding.pry
+binding.pry
 Song.genre_count
